@@ -1,0 +1,14 @@
+{
+  "name": "temperaturestation",
+  "version": "1.0.0",
+  "description": "Temperature monitoring to determine if it's ok to open windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
